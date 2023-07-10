@@ -18,6 +18,6 @@
 
       --> In last, at bottom-right corner, filters have been given wrt to "Year", "Segment", and "Region".
 
-   5. So, in this way, we have seen the step-by-step explanation about the whole dashboard making.
+5. So, in this way, we have seen the step-by-step explanation about the whole dashboard making.
    
    
